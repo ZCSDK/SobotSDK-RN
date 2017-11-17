@@ -1,0 +1,3 @@
+rootProject.name = 'sobotsdkdemo'
+
+include ':app',':sobotsdk'
